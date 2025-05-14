@@ -7,7 +7,7 @@ pip install -r requirements.txt
 
 REM Run the bot script
 echo [*] Running bot...
-python login.py
+python main.py
 
 REM Keep console open after running
 pause
